@@ -1,14 +1,26 @@
 # Hi there. I'm Manuel Huerta👋
 
-🌪 Environmental Engineer focused on geographic information systems (GIS), renewable energies, data science, and environmental modelling, focused on the processes involved in air-ocean interactions.
+```
+Environmental Engineer with expertise and interest in:
 
-# Skills
-- Python.
-- QGIS.
+- 🛰 Geographic Information Systems (GIS).
+- 🌪 Applications of data science in environmental sciences.
+- 🌊 Environmental modelling, focused on the processes involved in:
+    - Air-ocean interactions,
+    - Weather forecast,and 
+    - Air qualitsy modelling.
+```
+```
+### Main Programming skills:
+- Python
 - R.
-- GEE (Google Earth Engine).
-- PostgreSQL.
+- SQL.
+- JavaScript.
+```
 
+---
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=maniconaji&show_icons=true&theme=gruvbox&count_private=true) 
 
 <!--
 **maniconaji/maniconaji** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -22,15 +34,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - 
--->
-
-# GitHub stats
-![](https://github-readme-stats.vercel.app/api?username=maniconaji&show_icons=true&theme=gruvbox&count_private=true)  
-
-# Main repositories
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
-</a>
+--> 
