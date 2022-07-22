@@ -1,17 +1,18 @@
 # Hi there. I'm Manuel Huerta👋
 
-```
-Environmental Engineer with expertise and interest in:
+**Environmental Engineer** with expertise and interest in:
 
 - 🛰 Geographic Information Systems (GIS).
-- 🌪 Applications of data science in environmental sciences.
+- 🌪 Data science applied to environmental problems.
 - 🌊 Environmental modelling, focused on the processes involved in:
-    - Air-ocean interactions,
-    - Weather forecast,and 
-    - Air qualitsy modelling.
+    + Air-ocean interactions,
+    + Weather forecast, and 
+    + Air quality.
+
+---
+
 ```
-```
-### Main Programming skills:
+Main Programming skills:
 - Python
 - R.
 - SQL.
