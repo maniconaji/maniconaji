@@ -9,7 +9,7 @@
     + Weather forecast, and 
     + Air quality.
 
----
+<br />
 
 ```
 Main Programming skills:
@@ -18,8 +18,7 @@ Main Programming skills:
 - SQL.
 - JavaScript.
 ```
-
----
+<br />
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=maniconaji&show_icons=true&theme=gruvbox&count_private=true) 
 
