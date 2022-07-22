@@ -1,6 +1,6 @@
 # Hi there. I'm Manuel Huerta👋
 
-**Environmental Engineer** with expertise and interest in:
+**Environmental Engineer** with interest in:
 
 - 🛰 Geographic Information Systems (GIS).
 - 🌪 Data science applied to environmental problems.
