@@ -17,7 +17,14 @@ Main Programming skills:
 
 <br />
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=maniconaji&show_icons=true&theme=gruvbox&count_private=true&layout=normal) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maniconaji&layout=normal&show_icons=true&theme=gruvbox&count_private=true)
+<!-- ![GitHub stats](https://github-readme-stats.vercel.app/api?username=maniconaji&show_icons=true&theme=gruvbox&count_private=true&layout=normal) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maniconaji&layout=normal&show_icons=true&theme=gruvbox&count_private=true) -->
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=maniconaji" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=maniconaji&layout=compact&langs_count=8&card_width=320" />
+</a>
 
 <!--
 **maniconaji/maniconaji** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
