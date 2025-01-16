@@ -20,10 +20,10 @@ Main Programming skills:
 <!-- ![GitHub stats](https://github-readme-stats.vercel.app/api?username=maniconaji&show_icons=true&theme=gruvbox&count_private=true&layout=normal) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maniconaji&layout=normal&show_icons=true&theme=gruvbox&count_private=true) -->
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=maniconaji" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=maniconaji&show_icons=true&theme=gruvbox&count_private=true&layout=normal&card_width=320" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=maniconaji&layout=compact&langs_count=8&card_width=320" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maniconaji&layout=normal&show_icons=true&theme=gruvbox&count_private=true" />
 </a>
 
 <!--
