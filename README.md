@@ -17,7 +17,7 @@ Main Programming skills:
 
 <br />
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=maniconaji&show_icons=true&theme=gruvbox&count_private=true&layout=compact) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maniconaji&layout=compact&show_icons=true&theme=gruvbox&count_private=true)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=maniconaji&show_icons=true&theme=gruvbox&count_private=true&layout=normal) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maniconaji&layout=normal&show_icons=true&theme=gruvbox&count_private=true)
 
 <!--
 **maniconaji/maniconaji** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
