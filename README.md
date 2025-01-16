@@ -4,10 +4,7 @@
 
 - 🛰 Geographic Information Systems (GIS).
 - 🌪 Data science applied to environmental problems.
-- 🌊 Environmental modelling, focused on the processes involved in:
-    + Air-ocean interactions,
-    + Weather forecast, and 
-    + Air quality.
+- 🌊 Environmental modelling, focused on the processes involved in Air quality and Weather forecast.
 
 <br />
 
