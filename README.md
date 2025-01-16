@@ -21,6 +21,8 @@ Main Programming skills:
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maniconaji&layout=compact)
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=maniconaji)](https://git.io/streak-stats)
+
 <!--
 **maniconaji/maniconaji** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
